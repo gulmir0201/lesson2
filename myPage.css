@@ -1,0 +1,14 @@
+body{
+    background-image: url('laptop.jpg');
+    background-size: cover;
+}
+.box{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+button{
+    padding: 20px;
+    width: 150px;
+    font-size: 20px;
+    border-radius: 10px;
+}
