@@ -4,8 +4,8 @@ body{
 }
 .button-link {
     padding: 10px 20px;
-    background-color: #007bff;
-    color: white;
+    background-color: #f9fafc;
+    color: rgb(46, 45, 45);
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -15,7 +15,12 @@ body{
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: #f9fafc;
+}
 
 .button-link:hover {
-    background-color: #0056b3;
+    background-color: #cdcdce;
 }
